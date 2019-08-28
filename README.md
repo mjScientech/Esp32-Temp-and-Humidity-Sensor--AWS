@@ -59,7 +59,7 @@
 
 **Create Policy**
 
-[![ ALT TEXT](https://github.com/mjScientech/Monitoring-Temp-and-Humidity-using-AWS-ESP32/blob/master/vedio2.JPG)](https://www.dropbox.com/home/AWS%20video?preview=Creating+Policy.mp4)
+[![ ALT TEXT](https://github.com/mjScientech/Monitoring-Temp-and-Humidity-using-AWS-ESP32/blob/master/vedio2.JPG)](https://www.dropbox.com/s/3bozaw54pwd3jl8/Creating%20Policy.mp4?dl=0)
 
 It defines which operation a device or user can access.
 - Go to AWS-IoT interface ,Click on Secure-Policies.
@@ -81,7 +81,7 @@ the format of aws_iot_certficates.c inside AWS_IOT folder.
 
 ## Getting Output-
 
-[![ ALT TEXT](https://github.com/mjScientech/Monitoring-Temp-and-Humidity-using-AWS-ESP32/blob/master/vedio3.JPG)](https://www.dropbox.com/home/AWS%20video?preview=Test+AWS.mp4)
+[![ ALT TEXT](https://github.com/mjScientech/Monitoring-Temp-and-Humidity-using-AWS-ESP32/blob/master/vedio3.JPG)](https://www.dropbox.com/s/luy0pvozp8zw6xl/Test%20AWS.mp4?dl=0)
 
 - Go to test in AWS_IoT console.
 ![alt tag](https://github.com/mjScientech/Monitoring-Temp-and-Humidity-using-AWS-ESP32/blob/master/test1.JPG)
