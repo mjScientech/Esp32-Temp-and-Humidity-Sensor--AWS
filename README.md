@@ -44,7 +44,7 @@
 **CREATE THING AND CERTIFICATE**
 
 
-[![ ALT TEXT](https://github.com/mjScientech/Monitoring-Temp-and-Humidity-using-AWS-ESP32/blob/master/vedio1.JPG)](https://www.dropbox.com/home/AWS%20video?preview=Creating+Thing.mp4)
+[![ ALT TEXT](https://github.com/mjScientech/Monitoring-Temp-and-Humidity-using-AWS-ESP32/blob/master/vedio1.JPG)](https://www.dropbox.com/s/2g1gm9148zqsae7/Creating%20Thing.mp4?dl=0)
 
 - THING: It is virtual representation od your device.
 - CERTIFICATE: Authenticates the identity of a THING.
