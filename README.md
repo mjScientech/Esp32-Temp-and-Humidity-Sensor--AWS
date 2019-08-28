@@ -34,7 +34,7 @@
 ## Making the AWS work.
 
 **CREATE THING AND CERTIFICATE**
-[![IMAGE ALT TEXT HERE](https://github.com/mjScientech/Monitoring-Temp-and-Humidity-using-AWS-ESP32/blob/master/vedio1.JPG)](https://www.dropbox.com/home/AWS%20vedios?preview=27.08.2019_13.57.30_REC.mp4)
+[![ ALT TEXT](https://github.com/mjScientech/Monitoring-Temp-and-Humidity-using-AWS-ESP32/blob/master/vedio1.JPG)](https://www.dropbox.com/home/AWS%20vedios?preview=27.08.2019_13.57.30_REC.mp4)
 - THING: It is virtual representation od your device.
 - CERTIFICATE: Authenticates the identity of a THING.
 - Open [AWS-IoT](https://eu-central-1.console.aws.amazon.com/iot/home)
